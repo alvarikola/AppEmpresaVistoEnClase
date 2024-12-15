@@ -3,6 +3,7 @@ from crypt import methods
 import psycopg2
 from flask import Flask, jsonify
 
+# Álvaro
 app = Flask(__name__)
 
 
